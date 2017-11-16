@@ -6,7 +6,7 @@ WeatherPlus hava durumu uygulamasıdır. Haftalık hava durumu incelemesi ve şe
 
 -	[Ekranlar](#ekranlar)
 -	[Teknolojiler](#teknolojiler)
--	[Çalıştırma](#çalıştırma)
+-	[Başlatma](#başlatma)
 
 
 ## Ekranlar
@@ -32,7 +32,7 @@ Vaadin Framework, web uygulamaları oluşturmak için sunucu tarafında bir Java
 Gson, Java Nesnelerini JSON gösterimine dönüştürmek için kullanılabilen bir Java kitaplığıdır. Bir JSON dizesini eşdeğer bir Java nesnesine dönüştürmek için de kullanılabilir. 
 
 
-## Çalıştırma
+## Başlatma
 
 Projenin ana dizininde aşağıdaki komutu kullanarak uygulamayı başlatabilirsiniz. 
 Uygulama http://localhost:8091/ linkinde çalışmaktadır. application.properties dosyası üzerinden port değiştirilebilir.
