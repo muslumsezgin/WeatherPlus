@@ -6,7 +6,7 @@ WeatherPlus hava durumu uygulamasıdır. Haftalık hava durumu incelemesi ve şe
 
 -	[Ekranlar](#ekranlar)
 -	[Teknolojiler](#teknolojiler)
--	[Get Started](#calıştırma)
+-	[Çalıştırma](#çalıştırma)
 
 
 ## Ekranlar
