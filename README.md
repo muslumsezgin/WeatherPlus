@@ -35,7 +35,7 @@ Gson, Java Nesnelerini JSON gösterimine dönüştürmek için kullanılabilen b
 ## Çalıştırma
 
 Projenin ana dizininde aşağıdaki komutu kullanarak uygulamayı başlatabilirsiniz. 
-Uygulama https://0.0.0.0:8091 linkinde çalışmaktadır. application.properties dosyası üzerinden port değiştirilebilir.
+Uygulama http://localhost:8091/ linkinde çalışmaktadır. application.properties dosyası üzerinden port değiştirilebilir.
 
 ```
 mvn clean install spring-boot:run
