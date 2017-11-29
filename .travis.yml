@@ -20,7 +20,6 @@ install:
 script:
   - 'mvn test'
   - 'mvn verify'
-  - 'mvn jacoco:report'
   - 'mvn sonar:sonar'
 
 after_success:
