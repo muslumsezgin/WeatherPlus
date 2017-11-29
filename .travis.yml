@@ -20,6 +20,7 @@ install:
 script:
   - 'mvn test'
   - 'mvn verify'
+  - 'mvn clean test jacoco:report coveralls:report'
 
 after_success:
   - 'bash <(curl -s https://codecov.io/bash)'
