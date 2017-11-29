@@ -10,8 +10,8 @@ WeatherPlus hava durumu uygulamasıdır. Haftalık hava durumu incelemesi ve şe
 
 
 ## Ekranlar
- ![Screenshot](https://cdn.dribbble.com/users/218187/screenshots/2357046/weather_1x.png)
- ![Screenshot](https://cdn.dribbble.com/users/218187/screenshots/2357046/weather_1x.png)
+ ![Screenshot](https://github.com/muslumszgn/WeatherPlus/blob/master/ekrangoruntusu/image1.PNG?raw=true)
+ ![Screenshot](https://github.com/muslumszgn/WeatherPlus/blob/master/ekrangoruntusu/image2.PNG?raw=true)
 
 ## Teknolojiler
 
