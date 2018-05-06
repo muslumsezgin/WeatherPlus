@@ -1,7 +1,7 @@
 ## WeatherPlus
 
 ![BUILD Status](https://travis-ci.org/muslumsezgin/WeatherPlus.svg?branch=master)
-[![Coverage Status](https://coveralls.io/repos/github/muslumsezgin/WeatherPlus/badge.svg?branch=master)](https://coveralls.io/github/muslumszgn/WeatherPlus?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/muslumszgn/WeatherPlus/badge.svg?branch=master)](https://coveralls.io/github/muslumszgn/WeatherPlus?branch=master)
 
 
 WeatherPlus hava durumu uygulamasıdır. Haftalık hava durumu incelemesi ve şehir kayıt etme özellikleri vardır. Spring Boot ve Vaadin teknolojileri kullanılarak hazırlanmıştır.
